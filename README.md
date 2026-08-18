@@ -14,7 +14,7 @@ I create this repository to record my learning process. Now you can see I introd
 
 原文：https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020
 
-本作品为原始材料的非官方中文翻译及重新排版本。
+本仓库的部分作品为原始材料的非官方中文翻译及重新排版本。
 
 修改内容：将英文原文翻译为中文，并调整 LaTeX 排版。
 
