@@ -8,7 +8,7 @@ I create this repository to record my learning process. Now you can see I introd
 原始材料
 6.006 Introduction to Algorithms, Spring 2020.
 课程教师：Erik Demaine、Jason Ku、Justin Solomon
-原文：https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/resources/mit6_006s20_prob8/
+原文：https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/resources/
 
 本作品为原始材料的非官方中文翻译及重新排版本。
 修改内容：将英文原文翻译为中文，并调整 LaTeX 排版。
