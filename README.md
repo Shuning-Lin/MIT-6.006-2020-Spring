@@ -5,16 +5,23 @@ I create this repository to record my learning process. Now you can see I introd
 我创建这个仓库是为了记录我的学习过程。目前你看到的介绍是英文的，但所有提交的文件都使用中文。因此，如果你担心语言障碍，又想学习一些算法知识，我认为这个仓库非常适合你。（顺便说一下：部分练习内容由GPT-5.6Sol或Claude-Opus5生成，我认为它们质量很高，甚至用了上述AI来辅助我的期末复习）
 
 额外的补充：
+
 原始材料
+
 6.006 Introduction to Algorithms, Spring 2020.
+
 课程教师：Erik Demaine、Jason Ku、Justin Solomon
+
 原文：https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020
 
 本作品为原始材料的非官方中文翻译及重新排版本。
+
 修改内容：将英文原文翻译为中文，并调整 LaTeX 排版。
 
 本作品依据 Creative Commons
+
 署名—非商业性使用—相同方式共享 4.0 国际许可协议
+
 （CC BY-NC-SA 4.0）发布：
 https://creativecommons.org/licenses/by-nc-sa/4.0/
 
