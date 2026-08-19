@@ -1,3 +1,4 @@
+#最长公共子序列（LCS）
 #include<iostream>
 #include<string>
 #include<algorithm>
