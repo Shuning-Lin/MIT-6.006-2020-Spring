@@ -7,7 +7,7 @@ class FloydWarshall:
         self.nxt=[[-1]*n for i in range(n)]
         for i in range(n):
             self.dist[i][i]=0
-            self.nxt[i][i]=i  #不太清楚这句话的作用
+            self.nxt[i][i]=i 
 
     def add_edge(self,u,v,w):
         if w<self.dist[u][v]:
